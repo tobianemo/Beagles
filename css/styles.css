@@ -206,6 +206,7 @@ footer {
 	color: #e4f2ea;
 	font-size: 1.5em;
 	font-weight: bold;
+	font-family: 'Acme', sans-serif;
 }
 
 .fnav a:hover {
